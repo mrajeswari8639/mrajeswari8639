@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi 👋, I'm Rajeswari
+
+🎓 B.Tech CSE Graduate  
+💻 Interested in Software Development  
+🌱 Currently learning Java, SQL, and Web Technologies  
+
+## 🛠️ Skills
+- Java
+- Python (Basics)
+- HTML, CSS, JavaScript
+- SQL
+
+## 📂 Projects
+- Learning Management System (LMS)
+
+## 📫 Contact Me
+- Email: manneelaraji@gmail.com
 
 <!--
 **mrajeswari8639/mrajeswari8639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
